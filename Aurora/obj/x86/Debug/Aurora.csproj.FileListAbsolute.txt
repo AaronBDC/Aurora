@@ -23,3 +23,28 @@ C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\D
 C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\yellow_box.xnb
 C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\blue_box_tex_0.xnb
 C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\yellow_box_tex_0.xnb
+C:\Development\Aurora\Aurora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\Aurora\Aurora\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Development\Aurora\Aurora\obj\x86\Debug\Aurora.exe
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Textures\blue_box.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\green_box_tex.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\blue_box_tex.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\arm.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\Intercooler.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\box.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\nebula.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\spaceship.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\monkey.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\rboxnew.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\redbox.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\rbox.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\blue_box.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\yellow_box.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\myFont.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\red_box_0.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\blue_box_tex_0.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\yellow_box_tex_0.xnb
+C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\green_box_tex.jpg
+C:\Development\Aurora\Aurora\bin\x86\Debug\Aurora.exe
+C:\Development\Aurora\Aurora\bin\x86\Debug\Aurora.pdb
+C:\Development\Aurora\Aurora\obj\x86\Debug\Aurora.pdb

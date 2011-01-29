@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>Box01</Name>
     <Identity>
-      <SourceFilename>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\Content\Models\Box\Intercooler.FBX</SourceFilename>
+      <SourceFilename>C:\Development\Aurora\Aurora\Content\Models\Box\Intercooler.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>2.54 0 0 0 0 -2.54 1.11026928E-07 0 0 -1.11026928E-07 -2.54 0 59.4165268 29.918047 -114.802216 1</Transform>
@@ -26,7 +26,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>09 - Default</Name>
       <Identity>
-        <SourceFilename>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\Content\Models\Box\Intercooler.FBX</SourceFilename>
+        <SourceFilename>C:\Development\Aurora\Aurora\Content\Models\Box\Intercooler.FBX</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

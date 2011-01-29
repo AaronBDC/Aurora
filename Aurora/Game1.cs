@@ -56,13 +56,15 @@ namespace Aurora
         protected override void Initialize()
         {
             //Initialize Camera
-            camera = new Camera(this, new Vector3(0.0f, 0.0f, 500.0f),
+            camera = new Camera(this, new Vector3(0.0f, 0.0f, 700.0f),
                 Vector3.Zero, Vector3.Up);
             Components.Add(camera);
 
             rand = new Random(3);
 
             modelManager = new ModelManager(this);
+            modelManager.Initialize();
+
             Components.Add(modelManager);
 
             //Initialize 
@@ -121,7 +123,7 @@ namespace Aurora
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.Black);
-            GraphicsDevice.VertexDeclaration = new VertexDeclaration(GraphicsDevice, VertexPositionColor.VertexElements);
+            //GraphicsDevice.VertexDeclaration = new VertexDeclaration(GraphicsDevice, VertexPositionColor.VertexElements);
 
             // TODO: Add your drawing code here
             // Create effect and set properties

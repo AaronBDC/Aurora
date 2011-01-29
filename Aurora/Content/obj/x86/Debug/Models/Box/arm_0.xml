@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>Box04</Name>
     <Identity>
-      <SourceFilename>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\Content\Models\Box\arm.FBX</SourceFilename>
+      <SourceFilename>C:\Development\Aurora\Aurora\Content\Models\Box\arm.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1.48797786 -0.0154834017 0.017325338 0 6.22944867E-07 -1.62637341 -1.4535197 0 -0.06789221 -2.8971827 3.24171782 0 -140.311081 101.400711 -143.924667 1</Transform>
@@ -26,7 +26,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>09 - Default</Name>
       <Identity>
-        <SourceFilename>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\Content\Models\Box\arm.FBX</SourceFilename>
+        <SourceFilename>C:\Development\Aurora\Aurora\Content\Models\Box\arm.FBX</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

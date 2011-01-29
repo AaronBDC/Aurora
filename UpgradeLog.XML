@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Aurora">
+</Property><Property Name="Solution File" Value="C:\Development\Aurora\Aurora.sln">
+</Property><Property Name="User Options File" Value="C:\Development\Aurora\Aurora.suo">
+</Property><Property Name="Date" Value="Monday, January 17, 2011">
+</Property><Property Name="Time" Value="14:52 PM">
+</Property><Property Name="Solution" Value="Aurora">
+</Property><Property Name="Solution File" Value="C:\Development\Aurora\Aurora.sln">
+</Property><Property Name="Date" Value="Monday, January 17, 2011">
+</Property><Property Name="Time" Value="14:52:38 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Aurora.sln" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Aurora.suo" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora.suo">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Aurora.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Aurora.csproj" Description="Project file successfully backed up as C:\Development\Aurora\Backup\Aurora\Aurora.csproj">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Aurora.csproj.user" Description="Project user file successfully backed up as C:\Development\Aurora\Backup\Aurora\Aurora.csproj.user">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\BasicModel.cs" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora\BasicModel.cs">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Camera.cs" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora\Camera.cs">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Block.cs" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora\Block.cs">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Debris.cs" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora\Debris.cs">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\ModelManager.cs" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora\ModelManager.cs">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Program.cs" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora\Program.cs">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Game1.cs" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora\Game1.cs">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Robot.cs" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora\Robot.cs">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Game.ico" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora\Game.ico">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\GameThumbnail.png" Description="File successfully backed up as C:\Development\Aurora\Backup\Aurora\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Aurora.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Aurora" Source="Aurora\Aurora.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Aurora.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Aurora.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Aurora.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Aurora" Source="Aurora\Aurora.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="arm.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="bluebox.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="blue_box_tex.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="green_box.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="green_box_tex.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Intercooler.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="yellow_box.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="arm.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Billboard.max" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Intercooler.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="spaceship.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="arm.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="asteroid1.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="bluebox.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="blue_box.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="blue_box_tex.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="box.fbx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="box.obj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="green_box_tex.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Intercooler.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="monkey.fbx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="nebula.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="rbox.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="rbox2.fbx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="rboxnew.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="redbox.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="red_box.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="spaceship.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="yellow_box.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="yellow_box_tex.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="blue_box.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="myFont.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="AuroraContent" Source="Aurora\Content\AuroraContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

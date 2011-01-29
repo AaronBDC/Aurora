@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
       <Source>Textures\blue_box.jpg</Source>
@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Textures\blue_box.xnb</Output>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Textures\blue_box.xnb</Output>
       <Time>2010-12-12T10:51:01.8920853-05:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\green_box_tex.xnb</Output>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\green_box_tex.xnb</Output>
       <Time>2010-12-12T10:54:49.1870858-05:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\blue_box_tex.xnb</Output>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\blue_box_tex.xnb</Output>
       <Time>2010-12-12T10:51:01.8920853-05:00</Time>
     </Item>
     <Item>
@@ -34,12 +34,155 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\arm.xnb</Output>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\arm.xnb</Output>
       <Time>2010-12-14T23:36:30.4519023-05:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\Box\arm_0.xml</Key>
-        <Value>2010-12-14T23:40:30.5776367-05:00</Value>
+        <Value>2011-01-17T15:29:54.8150425-05:00</Value>
       </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Box\Intercooler.FBX</Source>
+      <Name>Models\Box\Intercooler</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\Intercooler.xnb</Output>
+      <Time>2010-12-14T23:41:17.5463231-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Box\Intercooler_0.xml</Key>
+        <Value>2011-01-17T15:29:55.1300605-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\box.fbx</Source>
+      <Name>Models\box</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\box.xnb</Output>
+      <Time>2010-08-14T11:13:25.6042304-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\box_0.xml</Key>
+        <Value>2011-01-17T15:29:55.2880695-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\nebula.FBX</Source>
+      <Name>Models\nebula</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\nebula.xnb</Output>
+      <Time>2010-11-06T19:52:41.2859722-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\nebula_0.xml</Key>
+        <Value>2011-01-17T15:29:55.3960757-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\spaceship.FBX</Source>
+      <Name>Models\spaceship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\spaceship.xnb</Output>
+      <Time>2010-11-06T20:04:37.0455688-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\spaceship_0.xml</Key>
+        <Value>2011-01-17T15:29:55.4770803-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\monkey.fbx</Source>
+      <Name>Models\monkey</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\monkey.xnb</Output>
+      <Time>2010-08-16T20:42:02.6977548-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\monkey_0.xml</Key>
+        <Value>2011-01-17T15:29:56.2211229-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\rboxnew.FBX</Source>
+      <Name>Models\rboxnew</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\rboxnew.xnb</Output>
+      <Time>2010-11-13T14:48:41.3140761-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\rboxnew_0.xml</Key>
+        <Value>2011-01-17T15:29:56.3251288-05:00</Value>
+      </Dependency>
+      <Request>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\red_box_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\redbox.FBX</Source>
+      <Name>Models\redbox</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\redbox.xnb</Output>
+      <Time>2010-07-18T22:20:59.2621611-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\redbox_0.xml</Key>
+        <Value>2011-01-17T15:29:56.6381467-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\rbox.FBX</Source>
+      <Name>Models\rbox</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\rbox.xnb</Output>
+      <Time>2010-12-31T21:12:18.5100936-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\rbox_0.xml</Key>
+        <Value>2011-01-17T15:29:56.7071507-05:00</Value>
+      </Dependency>
+      <Request>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\red_box_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\blue_box.FBX</Source>
+      <Name>Models\blue_box</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\blue_box.xnb</Output>
+      <Time>2011-01-01T12:46:27.1742165-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\blue_box_0.xml</Key>
+        <Value>2011-01-17T15:29:56.7761546-05:00</Value>
+      </Dependency>
+      <Request>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\blue_box_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\yellow_box.FBX</Source>
+      <Name>Models\yellow_box</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\yellow_box.xnb</Output>
+      <Time>2011-01-01T12:48:29.6362209-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\yellow_box_0.xml</Key>
+        <Value>2011-01-17T15:29:56.8861609-05:00</Value>
+      </Dependency>
+      <Request>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\yellow_box_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2010-12-29T22:14:07.0773095-05:00</Time>
     </Item>
     <Item>
       <Source>Models\Box\arm.FBX</Source>
@@ -50,102 +193,10 @@
     </Item>
     <Item>
       <Source>Models\Box\Intercooler.FBX</Source>
-      <Name>Models\Box\Intercooler</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\Box\Intercooler.xnb</Output>
-      <Time>2010-12-14T23:41:17.5463231-05:00</Time>
-      <Dependency>
-        <Key>obj\x86\Debug\Models\Box\Intercooler_0.xml</Key>
-        <Value>2010-12-14T23:42:05.2280504-05:00</Value>
-      </Dependency>
-    </Item>
-    <Item>
-      <Source>Models\Box\Intercooler.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Models\Box\Intercooler_0.xml</Output>
       <Time>2010-12-14T23:41:17.5463231-05:00</Time>
-    </Item>
-    <Item>
-      <Source>Models\box.fbx</Source>
-      <Name>Models\box</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\box.xnb</Output>
-      <Time>2010-08-14T11:13:25.6042304-04:00</Time>
-      <Dependency>
-        <Key>obj\x86\Debug\Models\box_0.xml</Key>
-        <Value>2010-12-14T23:55:21.526596-05:00</Value>
-      </Dependency>
-    </Item>
-    <Item>
-      <Source>Models\nebula.FBX</Source>
-      <Name>Models\nebula</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\nebula.xnb</Output>
-      <Time>2010-11-06T19:52:41.2859722-04:00</Time>
-      <Dependency>
-        <Key>obj\x86\Debug\Models\nebula_0.xml</Key>
-        <Value>2010-12-14T23:55:48.4341351-05:00</Value>
-      </Dependency>
-    </Item>
-    <Item>
-      <Source>Models\spaceship.FBX</Source>
-      <Name>Models\spaceship</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\spaceship.xnb</Output>
-      <Time>2010-11-06T20:04:37.0455688-04:00</Time>
-      <Dependency>
-        <Key>obj\x86\Debug\Models\spaceship_0.xml</Key>
-        <Value>2010-12-14T23:55:48.4941385-05:00</Value>
-      </Dependency>
-    </Item>
-    <Item>
-      <Source>Models\monkey.fbx</Source>
-      <Name>Models\monkey</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\monkey.xnb</Output>
-      <Time>2010-08-16T20:42:02.6977548-04:00</Time>
-      <Dependency>
-        <Key>obj\x86\Debug\Models\monkey_0.xml</Key>
-        <Value>2010-12-14T23:55:49.7772119-05:00</Value>
-      </Dependency>
-    </Item>
-    <Item>
-      <Source>Models\rboxnew.FBX</Source>
-      <Name>Models\rboxnew</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\rboxnew.xnb</Output>
-      <Time>2010-11-13T14:48:41.3140761-05:00</Time>
-      <Dependency>
-        <Key>obj\x86\Debug\Models\rboxnew_0.xml</Key>
-        <Value>2010-12-14T23:55:49.8922185-05:00</Value>
-      </Dependency>
-      <Request>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\red_box_0.xnb</Request>
-    </Item>
-    <Item>
-      <Source>Models\redbox.FBX</Source>
-      <Name>Models\redbox</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\redbox.xnb</Output>
-      <Time>2010-07-18T22:20:59.2621611-04:00</Time>
-      <Dependency>
-        <Key>obj\x86\Debug\Models\redbox_0.xml</Key>
-        <Value>2010-12-14T23:55:50.0402269-05:00</Value>
-      </Dependency>
     </Item>
     <Item>
       <Source>Models\box.fbx</Source>
@@ -187,14 +238,15 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Parameters>
-        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
         <Data Key="ColorKeyEnabled" Type="bool">true</Data>
         <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
         <Data Key="GenerateMipmaps" Type="bool">true</Data>
         <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\red_box_0.xnb</Output>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\red_box_0.xnb</Output>
       <Time>2010-11-13T12:47:10-05:00</Time>
     </Item>
     <Item>
@@ -205,62 +257,11 @@
       <Time>2010-07-18T22:20:59.2621611-04:00</Time>
     </Item>
     <Item>
-      <Source>myFont.spritefont</Source>
-      <Name>myFont</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\myFont.xnb</Output>
-      <Time>2010-12-29T22:14:07.0773095-05:00</Time>
-    </Item>
-    <Item>
-      <Source>Models\rbox.FBX</Source>
-      <Name>Models\rbox</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\rbox.xnb</Output>
-      <Time>2010-12-31T21:12:18.5100936-05:00</Time>
-      <Dependency>
-        <Key>obj\x86\Debug\Models\rbox_0.xml</Key>
-        <Value>2010-12-31T21:12:20.4042019-05:00</Value>
-      </Dependency>
-      <Request>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\red_box_0.xnb</Request>
-    </Item>
-    <Item>
       <Source>Models\rbox.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Models\rbox_0.xml</Output>
       <Time>2010-12-31T21:12:18.5100936-05:00</Time>
-    </Item>
-    <Item>
-      <Source>Models\blue_box.FBX</Source>
-      <Name>Models\blue_box</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\blue_box.xnb</Output>
-      <Time>2011-01-01T12:46:27.1742165-05:00</Time>
-      <Dependency>
-        <Key>obj\x86\Debug\Models\blue_box_0.xml</Key>
-        <Value>2011-01-01T12:46:28.9963207-05:00</Value>
-      </Dependency>
-      <Request>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\blue_box_tex_0.xnb</Request>
-    </Item>
-    <Item>
-      <Source>Models\yellow_box.FBX</Source>
-      <Name>Models\yellow_box</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\yellow_box.xnb</Output>
-      <Time>2011-01-01T12:48:29.6362209-05:00</Time>
-      <Dependency>
-        <Key>obj\x86\Debug\Models\yellow_box_0.xml</Key>
-        <Value>2011-01-01T12:48:31.4243232-05:00</Value>
-      </Dependency>
-      <Request>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\yellow_box_tex_0.xnb</Request>
     </Item>
     <Item>
       <Source>Models\blue_box.FBX</Source>
@@ -274,14 +275,15 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Parameters>
-        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
         <Data Key="ColorKeyEnabled" Type="bool">true</Data>
         <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
         <Data Key="GenerateMipmaps" Type="bool">true</Data>
         <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\blue_box_tex_0.xnb</Output>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\blue_box_tex_0.xnb</Output>
       <Time>2010-11-13T12:47:10-05:00</Time>
     </Item>
     <Item>
@@ -296,54 +298,56 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Parameters>
-        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
         <Data Key="ColorKeyEnabled" Type="bool">true</Data>
         <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
         <Data Key="GenerateMipmaps" Type="bool">true</Data>
         <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\Models\yellow_box_tex_0.xnb</Output>
+      <Output>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\Models\yellow_box_tex_0.xnb</Output>
       <Time>2010-11-13T12:47:10-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Development\Aurora\Aurora\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Development\Aurora\Aurora\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Development\Aurora\Aurora\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Development\Aurora\Aurora\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2009-05-28T00:16:14-04:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2009-05-28T00:16:06-04:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2009-05-28T00:16:16-04:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2009-05-28T00:16:26-04:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2009-05-28T00:16:12-04:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2009-05-28T00:16:06-04:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2009-11-26T13:41:46.9480115-05:00</Value>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-01-16T15:21:39.7445289-05:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

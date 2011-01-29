@@ -40,12 +40,17 @@ namespace Aurora
         int moveUpdates;
 
         //**End Movement Variables**//
-
+        
         public Block(Game game)
             : base(game)
         {
             state = BlockState.PACKAGE;
             
+        }
+        public Block(Game game, Vector3 loc)
+            : base(game)
+        {
+            location = loc;
         }
 
         public Block(Game game, Model m)
@@ -55,6 +60,7 @@ namespace Aurora
             state = BlockState.PACKAGE;
             location = new Vector3(0.0f, 0.0f, -50.0f);
         }
+
         public Block(Game game, Model m, Vector3 loc)
             : base(game)
         {
@@ -239,6 +245,30 @@ namespace Aurora
                 }
             }
             return false;
+        }
+        public bool CollidesWith(Block otherBlock)
+        {
+            if (otherBlock.GetLocation() == location)
+            {
+
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public bool CollidesWith(float locX, float locY)
+        {
+            if (location.X == locX && location.Y == locY)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public override Matrix GetWorld()

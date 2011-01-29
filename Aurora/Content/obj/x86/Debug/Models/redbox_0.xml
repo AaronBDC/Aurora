@@ -3,10 +3,10 @@
   <Asset Type="Graphics:MeshContent">
     <Name>Box01</Name>
     <Identity>
-      <SourceFilename>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\Content\Models\redbox.FBX</SourceFilename>
+      <SourceFilename>C:\Development\Aurora\Aurora\Content\Models\redbox.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
-    <Transform>2.54 0 0 0 0 7.195183E-16 -2.54 0 0 2.54 7.195183E-16 0 0 0 0 1</Transform>
+    <Transform>2.54 0 0 0 0 7.19523466E-16 -2.54 0 0 2.54 7.19523466E-16 0 0 0 0 1</Transform>
     <Positions>-12.5 -12.5 0 12.5 -12.5 0 -12.5 12.5 0 12.5 12.5 0 -12.5 -12.5 25 12.5 -12.5 25 -12.5 12.5 25 12.5 12.5 25</Positions>
     <Geometry>
       <Batch>

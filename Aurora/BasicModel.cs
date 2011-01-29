@@ -14,6 +14,7 @@ namespace Aurora
         public Model model { get; protected set; }
         protected Matrix world = Matrix.Identity;
         protected Vector3 location;
+        protected String name;
 
         public BasicModel(Game game)
             : base(game)
@@ -86,6 +87,11 @@ namespace Aurora
         public virtual void SetDestination(Vector3 newLocation)
         {
 
+        }
+
+        public virtual void SetName(String newName)
+        {
+            name = newName;
         }
 
         /**

@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>blend_root</Name>
     <Identity>
-      <SourceFilename>C:\Users\Jon Black\Documents\Visual Studio 2008\Projects\Aurora\Aurora\Content\Models\monkey.fbx</SourceFilename>
+      <SourceFilename>C:\Development\Aurora\Aurora\Content\Models\monkey.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>100 0 0 0 0 100 0 0 0 0 100 0 0 0 0 1</Transform>
